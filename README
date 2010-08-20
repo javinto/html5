@@ -1,0 +1,19 @@
+Html5
+=====
+
+For any one not yet ready to leave their Rails 2.3.x application here are the Rails HTML5 form helpers ported back from Rails 3.x
+
+Alle helpers are compliant to the Rails 3.x helpers. So upgrading your application to Rails 3.x any time later just means removing this plugin!
+
+Content
+=======
+
+The following HTML5 FormHelpers and FormTagHelpers have been added
+# search_field
+# telephone_field
+# url_field
+# email_field
+# number_field
+# range_field
+
+Copyright (c) 2010 [Javinto], released under the MIT license
